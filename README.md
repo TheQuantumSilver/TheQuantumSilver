@@ -19,7 +19,8 @@
   
   <p align="center">
     A passionate developer from India with a love for building innovative and user-friendly applications. 
-    <br> I'm currently focused on learning web and app developent along with competitive programming. Let's connect and create something amazing together!
+    <br> I'm currently focused on learning web and app developent along with competitive programming.
+    <br>Let's connect and create something amazing together!
   </p>
 
   <hr>
