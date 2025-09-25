@@ -35,3 +35,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false       # Flag can be set to False to hide the number of repositories in different programming languages and frameworks
           SHOW_UPDATED_DATE: true             # Flag can be set to True to show the updated date in end of paragraph
           UPDATED_DATE_FORMAT: "%d/%m/%Y"     # Flag can be set to put the updated date into a format. The default is "%d/%m/%Y %H:%M:%S"
+          SHOW_LOC_CHART: false               # Flag can be set to False to hide the lines of code written in different quarters of different years
