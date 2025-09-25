@@ -21,16 +21,17 @@
 
   <hr>
 </div>
+
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.4 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2025
+> 🏆 100 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,6 +39,20 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+YAML                     1 hr 12 mins        ██████████████████░░░░░░░   72.29 % 
+Markdown                 27 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🐱‍💻 Projects: 
+TheQuantumSilver         1 hr 40 mins        █████████████████████████   100.00 % 
+```
+
 
  Last Updated on 25/09/2025 UTC
 <!--END_SECTION:waka-->
