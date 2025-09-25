@@ -20,7 +20,8 @@
   </p>
 
   <hr>
-  <p align="left">
+</div>
+<div align="left">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -55,7 +56,9 @@ No Activity Tracked This Week
  Last Updated on 25/09/2025 UTC
 <!--END_SECTION:waka-->
 
-  </p>
+</div>
+
+<div align="center">
   <hr>
 
   <h3 align="left">Connect with me:</h3>
