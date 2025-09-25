@@ -20,6 +20,7 @@ jobs:
         with:
           # It's still recommended to use the PAT for authentication
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN_PAT }}
           
           # Your chosen options
           SHOW_TOTAL_CODE_TIME: true
