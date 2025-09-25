@@ -50,7 +50,7 @@
 
   <h3>My GitHub Stats</h3>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheQuantumSilver&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="TheQuantumSilver's github stats" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheQuantumSilver&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's streak stats" /></p>
+  <p><img align="center" src="https://streak-stats.demolab.com/?user=TheQuantumSilver&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's streak stats" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheQuantumSilver&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's top languages" /></p>
   
   <br>
