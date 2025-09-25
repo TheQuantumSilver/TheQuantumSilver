@@ -21,25 +21,10 @@
 
   <hr>
 </div>
+
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 21.4 kB Used in GitHub's Storage 
- > 
-> 🏆 101 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-
- Last Updated on 25/09/2025 UTC
 <!--END_SECTION:waka-->
 
 </div>
