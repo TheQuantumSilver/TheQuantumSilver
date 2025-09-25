@@ -3,10 +3,6 @@
   <a href="https://your-portfolio-link.com">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </a>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=TheQuantumSilver&label=Profile%20Visitors&color=blueviolet&style=flat" alt="profile-visitors" />
-  </p>
   
   <h1>
     Hi there, I'm Arpit
@@ -22,6 +18,11 @@
     <br> I'm currently focused on learning web and app developent along with competitive programming.
     <br>Let's connect and create something amazing together!
   </p>
+
+  <hr>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   <hr>
 
