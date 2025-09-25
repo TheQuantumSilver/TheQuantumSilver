@@ -9,7 +9,7 @@
   </p>
   
   <h1>
-    Hi there, I'm [Your Name] 
+    Hi there, I'm Arpit
   </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -50,7 +50,7 @@
 
   <h3>My GitHub Stats</h3>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheQuantumSilver&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="TheQuantumSilver's github stats" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheQuantumSilver&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's streak stats" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=TheQuantumSilver&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's streak stats" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheQuantumSilver&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's top languages" /></p>
   
   <br>
