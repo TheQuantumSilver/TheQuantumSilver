@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=blueviolet&style=flat" alt="profile-visitors" />
+    <img src="https://komarev.com/ghpvc/?username=TheQuantumSilver&label=Profile%20Visitors&color=blueviolet&style=flat" alt="profile-visitors" />
   </p>
   
   <h1>
@@ -18,18 +18,17 @@
   <br>
   
   <p align="center">
-    A passionate developer from [Your City/Country] with a love for building innovative and user-friendly applications. 
-    <br> I'm currently focused on [What you're working on/learning]. Let's connect and create something amazing together!
+    A passionate developer from India with a love for building innovative and user-friendly applications. 
+    <br> I'm currently focused on learning web and app developent along with competitive programming. Let's connect and create something amazing together!
   </p>
 
   <hr>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
-    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_USERNAME" height="30" width="40" /></a>
-    <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOUR_INSTAGRAM_USERNAME" height="30" width="40" /></a>
-    <a href="https://dev.to/YOUR_DEVTO_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR_DEVTO_USERNAME" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/arpitmishra2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitmishra2004" height="30" width="40" /></a>
+    <a href="https://x.com/Quantum_Silver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Quantum_Silver" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/thequantumsilver/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thequantumsilver" height="30" width="40" /></a>
   </p>
 
   <hr>
@@ -50,13 +49,13 @@
   <hr>
 
   <h3>My GitHub Stats</h3>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="YOUR_USERNAME's github stats" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="YOUR_USERNAME's streak stats" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="YOUR_USERNAME's top languages" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheQuantumSilver&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="TheQuantumSilver's github stats" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheQuantumSilver&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's streak stats" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheQuantumSilver&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="TheQuantumSilver's top languages" /></p>
   
   <br>
   
   <h3>My Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/TheQuantumSilver/TheQuantumSilver/output/github-contribution-grid-snake.svg" alt="snake">
   
 </div>
