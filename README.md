@@ -25,11 +25,13 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 21.4 kB Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2025
+> 🏆 109 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,16 +45,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 mins              ████████████████░░░░░░░░░   65.27 % 
-YAML                     1 min               ████████░░░░░░░░░░░░░░░░░   32.50 % 
-Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TheQuantumSilver         5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2025 UTC
+ Last Updated on 04/10/2025 UTC
 <!--END_SECTION:waka-->
 
 </div>
