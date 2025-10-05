@@ -25,13 +25,13 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2055%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.4 kB Used in GitHub's Storage 
  > 
-> 🏆 109 Contributions in the Year 2025
+> 🏆 110 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +45,27 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 38 mins       ██████████████████░░░░░░░   71.33 % 
+Bash                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Git                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 1 min         █████████████████████████   98.45 % 
+Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wombat                   4 hrs 53 mins       ████████████████████████░   95.82 % 
+TheQuantumSilver         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Swamp                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/10/2025 UTC
+ Last Updated on 05/10/2025 UTC
 <!--END_SECTION:waka-->
 
 </div>
