@@ -29,9 +29,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 21.4 kB Used in GitHub's Storage 
+> 📦 22.6 kB Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2025
+> 🏆 111 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,22 +45,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               10 mins             ████████████████████░░░░░   79.93 % 
-HTML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dotScripit               13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2025 UTC
+ Last Updated on 14/10/2025 UTC
 <!--END_SECTION:waka-->
 
 </div>
