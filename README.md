@@ -25,13 +25,13 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2021%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 200.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +45,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               59 mins             ██████████████████████░░░   88.46 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Concize                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2026 UTC
+ Last Updated on 15/01/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
