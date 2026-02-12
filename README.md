@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,20 +45,27 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      56 mins             ████████████████░░░░░░░░░   64.96 % 
+Bash                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 18 mins        ███████████████████████░░   90.25 % 
+IntelliJ IDEA            8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Resume                   56 mins             ████████████████░░░░░░░░░   64.96 % 
+Concize                  21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+food-order-system        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/02/2026 UTC
+ Last Updated on 12/02/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
