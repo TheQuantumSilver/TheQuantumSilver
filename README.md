@@ -25,6 +25,8 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2031%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 209.9 kB Used in GitHub's Storage 
@@ -37,8 +39,28 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/07/2026 UTC
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+HTML                     1 min               ██████████████████████░░░   87.14 % 
+TeX                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+
+🔥 Editors: 
+VS Code                  2 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+MAKAfuckingUT            1 min               ██████████████████████░░░   87.14 % 
+SpringerProceedingsTempla0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+
+💻 Operating System: 
+Windows                  2 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/07/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
