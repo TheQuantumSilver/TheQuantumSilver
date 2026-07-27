@@ -25,7 +25,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2022%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,22 +47,26 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 min               ██████████████████████░░░   87.14 % 
-TeX                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MAKAfuckingUT            1 min               ██████████████████████░░░   87.14 % 
-SpringerProceedingsTempla0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/07/2026 UTC
+ Last Updated on 27/07/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
