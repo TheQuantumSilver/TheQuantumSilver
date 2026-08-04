@@ -47,21 +47,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ███████████████████░░░░░░   74.08 % 
-HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Python                   2 hrs 33 mins       ███████████████████░░░░░░   75.02 % 
+HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SupremeCourtDataReport   3 hrs 8 mins        ██████████████████████░░░   87.61 % 
-Enigma26                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+SupremeCourtDataReport   2 hrs 58 mins       ██████████████████████░░░   86.97 % 
+Enigma26                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,7 +71,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/08/2026 UTC
+ Last Updated on 04/08/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
