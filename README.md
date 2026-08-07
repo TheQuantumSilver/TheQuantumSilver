@@ -25,6 +25,10 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 209.9 kB Used in GitHub's Storage 
@@ -37,6 +41,30 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     3 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  3 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+TCS                      3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
  Last Updated on 07/08/2026 UTC
 <!--END_SECTION:waka-->
