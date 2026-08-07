@@ -25,10 +25,6 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 209.9 kB Used in GitHub's Storage 
@@ -41,38 +37,8 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   1 hr 58 mins        █████████████████████░░░░   85.29 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-SupremeCourtDataReport   2 hrs 13 mins       ████████████████████████░   96.00 % 
-TCS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Enigma26                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-
-💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 05/08/2026 UTC
+ Last Updated on 07/08/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
