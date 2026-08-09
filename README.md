@@ -25,7 +25,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
 
@@ -47,16 +47,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     3 mins              █████████████████████████   100.00 % 
+Java                     3 mins              █████████████░░░░░░░░░░░░   50.59 % 
+JavaScript               2 mins              ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TCS                      3 mins              █████████████████████████   100.00 % 
+TCS                      3 mins              █████████████░░░░░░░░░░░░   50.59 % 
+ReceiptVakaGen           3 mins              ████████████░░░░░░░░░░░░░   49.41 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -66,7 +70,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2026 UTC
+ Last Updated on 09/08/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
