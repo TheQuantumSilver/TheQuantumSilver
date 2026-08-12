@@ -47,20 +47,18 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     3 mins              █████████████░░░░░░░░░░░░   50.59 % 
-JavaScript               2 mins              ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+JavaScript               2 mins              ██████████████░░░░░░░░░░░   56.67 % 
+Other                    1 min               ██████████░░░░░░░░░░░░░░░   40.62 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TCS                      3 mins              █████████████░░░░░░░░░░░░   50.59 % 
-ReceiptVakaGen           3 mins              ████████████░░░░░░░░░░░░░   49.41 % 
+ReceiptVakaGen           3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,7 +68,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/08/2026 UTC
+ Last Updated on 12/08/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
