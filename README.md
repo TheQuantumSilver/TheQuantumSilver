@@ -47,20 +47,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      4 mins              █████████████░░░░░░░░░░░░   53.35 % 
-JavaScript               2 mins              ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+C++                      4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CPPCodes                 4 mins              █████████████░░░░░░░░░░░░   53.35 % 
-ReceiptVakaGen           3 mins              ████████████░░░░░░░░░░░░░   46.65 % 
+CPPCodes                 4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,7 +66,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/08/2026 UTC
+ Last Updated on 16/08/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
